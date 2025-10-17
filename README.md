@@ -4,7 +4,7 @@ An awesome list of resources to help you improve as a **technical writer**.
 
 **Read My Feed** is an open, evolving list of high-quality resources for anyone looking to grow their technical writing career — from documentation and content design to developer experience and communication.
 
-👉 **See the full list:** [resources/resources.md](resources/resources.md)
+👉 **See the full list:** [resources.md](resources.md)
 
 
 You’ll find:

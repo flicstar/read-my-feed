@@ -14,6 +14,8 @@ A curated list of **feeds, blogs, newsletters, and channels** to help you improv
 - [passo.uno](https://passo.uno/) by Fabrizio Ferri Benedetti - Thoughts and experiences from an experienced technical writer.
 
 
+## Podcasts
+- [Inside Tech Comm]([bob](https://www.insidetechcomm.show/)) with Zohra Mutabanna - A show for anyone interested in learning more about technical communication.
 
 ## YouTube Channels
 - [Write the Docs YouTube Channel](https://www.youtube.com/c/WritetheDocs) - Conference talks, lightning talks, and discussions about docs culture.  
